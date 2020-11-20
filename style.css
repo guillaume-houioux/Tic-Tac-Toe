@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant&display=swap');
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #61915E;
+	font-family: 'Assistant', sans-serif;
+}
+table {
+	font-family: arial, sans-serif;
+	width: 200px;
+	table-layout: fixed;
+	border-spacing: 4px;
+	border-collapse: separate;
+	margin: auto;
+}
+td, th {
+	border: 1px solid white;
+	text-align: left;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	background-color: #94CA91;
+	color: white;
+	font-weight: bold;
+}
+#score {
+	width: 318px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	color: white;
+	border: 1px solid white;
+	background-color: #94CA91;
+	margin: auto;
+	margin-top: 200px;
+	font-size: 24px;	
+	font-weight: bold;
+}
